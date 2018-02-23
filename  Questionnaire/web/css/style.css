@@ -1,0 +1,30 @@
+.main{
+    background-color: #2aabd2;
+    margin-top: 100px;
+    width: 400px;
+    height: 400px;
+    border: 5px seagreen solid;
+    border-radius: 10px;
+}
+
+.input{
+    margin-top: 10px;
+    width: 200px;
+}
+
+.label{
+    margin-top: 10px;
+    color: #3c3c3c;
+    font-size: medium;
+    text-align: right;
+}
+
+.button{
+    margin: 10px 0 0 120px;
+
+}
+
+.ul{
+    margin-top: 40px;
+    margin-left: 120px;
+}
